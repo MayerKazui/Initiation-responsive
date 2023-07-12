@@ -1,0 +1,7 @@
+nav {
+    @apply sticky top-0 z-0;
+}
+
+main {
+    @apply h-screen;
+}
